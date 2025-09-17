@@ -21,7 +21,6 @@ This project is built with the following technologies:
 
 - **HTML** – Structure of the application  
 - **CSS** – Base styling  
-- **TailwindCSS** – Utility-first styling for modern UI  
 - **JavaScript** – Quiz logic and interactivity  
 
 ---
