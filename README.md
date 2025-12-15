@@ -27,6 +27,6 @@ This project is built with the following technologies:
 
 ## 🔋 Features
 - 🎯 **10 Randomized Questions** each playthrough  
-- 🎨 **Clean & Responsive UI** powered by TailwindCSS  
+- 🎨 **Clean & Responsive UI** powered by CSS styling 
 - ⚡ **Fast & Interactive Experience** with vanilla JavaScript  
 - 📱 **Mobile-Friendly Design**  
